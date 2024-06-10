@@ -1,0 +1,18 @@
+
+
+.dark{
+    background-color: rgb(21, 17, 17);
+    color: white;
+}
+
+button{
+    padding: 10px;
+}
+
+button span{
+    padding: 5px;
+}
+
+.sun{
+    display: none;
+}
